@@ -1,0 +1,375 @@
+Person_ID,Gender,Age,Sleep_Duration,Quality_of_Sleep,Physical_Activity_Level,Stress_Level,BMI_Category,Sleep_Disorder
+1,Male,27,6.1,6,42,6,Overweight,Healthy
+2,Male,28,6.2,6,60,8,Normal,Healthy
+3,Male,28,6.2,6,60,8,Normal,Healthy
+4,Male,28,5.9,4,30,8,Obese,Sleep Apnea
+5,Male,28,5.9,4,30,8,Obese,Sleep Apnea
+6,Male,28,5.9,4,30,8,Obese,Insomnia
+7,Male,29,6.3,6,40,7,Obese,Insomnia
+8,Male,29,7.8,7,75,6,Normal,Healthy
+9,Male,29,7.8,7,75,6,Normal,Healthy
+10,Male,29,7.8,7,75,6,Normal,Healthy
+11,Male,29,6.1,6,30,8,Normal,Healthy
+12,Male,29,7.8,7,75,6,Normal,Healthy
+13,Male,29,6.1,6,30,8,Normal,Healthy
+14,Male,29,6.0,6,30,8,Normal,Healthy
+15,Male,29,6.0,6,30,8,Normal,Healthy
+16,Male,29,6.0,6,30,8,Normal,Healthy
+17,Female,29,6.5,5,40,7,Normal,Sleep Apnea
+18,Male,29,6.0,6,30,8,Normal,Sleep Apnea
+19,Female,29,6.5,5,40,7,Normal,Insomnia
+20,Male,30,7.6,7,75,6,Normal,Healthy
+21,Male,30,7.7,7,75,6,Normal,Healthy
+22,Male,30,7.7,7,75,6,Normal,Healthy
+23,Male,30,7.7,7,75,6,Normal,Healthy
+24,Male,30,7.7,7,75,6,Normal,Healthy
+25,Male,30,7.8,7,75,6,Normal,Healthy
+26,Male,30,7.9,7,75,6,Normal,Healthy
+27,Male,30,7.8,7,75,6,Normal,Healthy
+28,Male,30,7.9,7,75,6,Normal,Healthy
+29,Male,30,7.9,7,75,6,Normal,Healthy
+30,Male,30,7.9,7,75,6,Normal,Healthy
+31,Female,30,6.4,5,35,7,Normal,Sleep Apnea
+32,Female,30,6.4,5,35,7,Normal,Insomnia
+33,Female,31,7.9,8,75,4,Normal,Healthy
+34,Male,31,6.1,6,30,8,Normal,Healthy
+35,Male,31,7.7,7,75,6,Normal,Healthy
+36,Male,31,6.1,6,30,8,Normal,Healthy
+37,Male,31,6.1,6,30,8,Normal,Healthy
+38,Male,31,7.6,7,75,6,Normal,Healthy
+39,Male,31,7.6,7,75,6,Normal,Healthy
+40,Male,31,7.6,7,75,6,Normal,Healthy
+41,Male,31,7.7,7,75,6,Normal,Healthy
+42,Male,31,7.7,7,75,6,Normal,Healthy
+43,Male,31,7.7,7,75,6,Normal,Healthy
+44,Male,31,7.8,7,75,6,Normal,Healthy
+45,Male,31,7.7,7,75,6,Normal,Healthy
+46,Male,31,7.8,7,75,6,Normal,Healthy
+47,Male,31,7.7,7,75,6,Normal,Healthy
+48,Male,31,7.8,7,75,6,Normal,Healthy
+49,Male,31,7.7,7,75,6,Normal,Healthy
+50,Male,31,7.7,7,75,6,Normal,Sleep Apnea
+51,Male,32,7.5,8,45,3,Normal,Healthy
+52,Male,32,7.5,8,45,3,Normal,Healthy
+53,Male,32,6.0,6,30,8,Normal,Healthy
+54,Male,32,7.6,7,75,6,Normal,Healthy
+55,Male,32,6.0,6,30,8,Normal,Healthy
+56,Male,32,6.0,6,30,8,Normal,Healthy
+57,Male,32,7.7,7,75,6,Normal,Healthy
+58,Male,32,6.0,6,30,8,Normal,Healthy
+59,Male,32,6.0,6,30,8,Normal,Healthy
+60,Male,32,7.7,7,75,6,Normal,Healthy
+61,Male,32,6.0,6,30,8,Normal,Healthy
+62,Male,32,6.0,6,30,8,Normal,Healthy
+63,Male,32,6.2,6,30,8,Normal,Healthy
+64,Male,32,6.2,6,30,8,Normal,Healthy
+65,Male,32,6.2,6,30,8,Normal,Healthy
+66,Male,32,6.2,6,30,8,Normal,Healthy
+67,Male,32,7.2,8,50,6,Normal,Healthy
+68,Male,33,6.0,6,30,8,Normal,Insomnia
+69,Female,33,6.2,6,50,6,Overweight,Healthy
+70,Female,33,6.2,6,50,6,Overweight,Healthy
+71,Male,33,6.1,6,30,8,Normal,Healthy
+72,Male,33,6.1,6,30,8,Normal,Healthy
+73,Male,33,6.1,6,30,8,Normal,Healthy
+74,Male,33,6.1,6,30,8,Normal,Healthy
+75,Male,33,6.0,6,30,8,Normal,Healthy
+76,Male,33,6.0,6,30,8,Normal,Healthy
+77,Male,33,6.0,6,30,8,Normal,Healthy
+78,Male,33,6.0,6,30,8,Normal,Healthy
+79,Male,33,6.0,6,30,8,Normal,Healthy
+80,Male,33,6.0,6,30,8,Normal,Healthy
+81,Female,34,5.8,4,32,8,Overweight,Sleep Apnea
+82,Female,34,5.8,4,32,8,Overweight,Sleep Apnea
+83,Male,35,6.7,7,40,5,Overweight,Healthy
+84,Male,35,6.7,7,40,5,Overweight,Healthy
+85,Male,35,7.5,8,60,5,Normal,Healthy
+86,Female,35,7.2,8,60,4,Normal,Healthy
+87,Male,35,7.2,8,60,4,Normal,Healthy
+88,Male,35,7.2,8,60,4,Normal,Healthy
+89,Male,35,7.3,8,60,4,Normal,Healthy
+90,Male,35,7.3,8,60,4,Normal,Healthy
+91,Male,35,7.3,8,60,4,Normal,Healthy
+92,Male,35,7.3,8,60,4,Normal,Healthy
+93,Male,35,7.5,8,60,5,Normal,Healthy
+94,Male,35,7.4,7,60,5,Obese,Sleep Apnea
+95,Female,36,7.2,8,60,4,Normal,Insomnia
+96,Female,36,7.1,8,60,4,Normal,Healthy
+97,Female,36,7.2,8,60,4,Normal,Healthy
+98,Female,36,7.1,8,60,4,Normal,Healthy
+99,Female,36,7.1,8,60,4,Normal,Healthy
+100,Female,36,7.1,8,60,4,Normal,Healthy
+101,Female,36,7.2,8,60,4,Normal,Healthy
+102,Female,36,7.2,8,60,4,Normal,Healthy
+103,Female,36,7.2,8,60,4,Normal,Healthy
+104,Male,36,6.6,5,35,7,Overweight,Sleep Apnea
+105,Female,36,7.2,8,60,4,Normal,Sleep Apnea
+106,Male,36,6.6,5,35,7,Overweight,Insomnia
+107,Female,37,6.1,6,42,6,Overweight,Healthy
+108,Male,37,7.8,8,70,4,Normal,Healthy
+109,Male,37,7.8,8,70,4,Normal,Healthy
+110,Male,37,7.4,8,60,5,Normal,Healthy
+111,Female,37,7.2,8,60,4,Normal,Healthy
+112,Male,37,7.4,8,60,5,Normal,Healthy
+113,Female,37,7.2,8,60,4,Normal,Healthy
+114,Male,37,7.4,8,60,5,Normal,Healthy
+115,Female,37,7.2,8,60,4,Normal,Healthy
+116,Female,37,7.2,8,60,4,Normal,Healthy
+117,Female,37,7.2,8,60,4,Normal,Healthy
+118,Female,37,7.2,8,60,4,Normal,Healthy
+119,Female,37,7.2,8,60,4,Normal,Healthy
+120,Female,37,7.2,8,60,4,Normal,Healthy
+121,Female,37,7.2,8,60,4,Normal,Healthy
+122,Female,37,7.2,8,60,4,Normal,Healthy
+123,Female,37,7.2,8,60,4,Normal,Healthy
+124,Female,37,7.2,8,60,4,Normal,Healthy
+125,Female,37,7.2,8,60,4,Normal,Healthy
+126,Female,37,7.5,8,60,4,Normal,Healthy
+127,Male,38,7.3,8,60,5,Normal,Healthy
+128,Female,38,7.1,8,60,4,Normal,Healthy
+129,Male,38,7.3,8,60,5,Normal,Healthy
+130,Male,38,7.3,8,60,5,Normal,Healthy
+131,Female,38,7.1,8,60,4,Normal,Healthy
+132,Male,38,7.3,8,60,5,Normal,Healthy
+133,Male,38,7.3,8,60,5,Normal,Healthy
+134,Female,38,7.1,8,60,4,Normal,Healthy
+135,Male,38,7.3,8,60,5,Normal,Healthy
+136,Male,38,7.3,8,60,5,Normal,Healthy
+137,Female,38,7.1,8,60,4,Normal,Healthy
+138,Male,38,7.1,8,60,5,Normal,Healthy
+139,Female,38,7.1,8,60,4,Normal,Healthy
+140,Male,38,7.1,8,60,5,Normal,Healthy
+141,Female,38,7.1,8,60,4,Normal,Healthy
+142,Male,38,7.1,8,60,5,Normal,Healthy
+143,Female,38,7.1,8,60,4,Normal,Healthy
+144,Female,38,7.1,8,60,4,Normal,Healthy
+145,Male,38,7.1,8,60,5,Normal,Sleep Apnea
+146,Female,38,7.4,7,60,5,Obese,Sleep Apnea
+147,Male,39,7.2,8,60,5,Normal,Insomnia
+148,Male,39,6.5,5,40,7,Overweight,Insomnia
+149,Female,39,6.9,7,50,6,Normal,Healthy
+150,Female,39,8.0,9,80,3,Normal,Healthy
+151,Female,39,8.0,9,80,3,Normal,Healthy
+152,Male,39,7.2,8,60,5,Normal,Healthy
+153,Male,39,7.2,8,60,5,Normal,Healthy
+154,Male,39,7.2,8,60,5,Normal,Healthy
+155,Male,39,7.2,8,60,5,Normal,Healthy
+156,Male,39,7.2,8,60,5,Normal,Healthy
+157,Male,39,7.2,8,60,5,Normal,Healthy
+158,Male,39,7.2,8,60,5,Normal,Healthy
+159,Male,39,7.2,8,60,5,Normal,Healthy
+160,Male,39,7.2,8,60,5,Normal,Healthy
+161,Male,39,7.2,8,60,5,Normal,Healthy
+162,Female,40,7.2,8,55,6,Normal,Healthy
+163,Female,40,7.2,8,55,6,Normal,Healthy
+164,Male,40,7.9,8,90,5,Normal,Healthy
+165,Male,40,7.9,8,90,5,Normal,Healthy
+166,Male,41,7.6,8,90,5,Normal,Insomnia
+167,Male,41,7.3,8,70,6,Normal,Healthy
+168,Male,41,7.1,7,55,6,Overweight,Healthy
+169,Male,41,7.1,7,55,6,Overweight,Healthy
+170,Male,41,7.7,8,90,5,Normal,Healthy
+171,Male,41,7.7,8,90,5,Normal,Healthy
+172,Male,41,7.7,8,90,5,Normal,Healthy
+173,Male,41,7.7,8,90,5,Normal,Healthy
+174,Male,41,7.7,8,90,5,Normal,Healthy
+175,Male,41,7.6,8,90,5,Normal,Healthy
+176,Male,41,7.6,8,90,5,Normal,Healthy
+177,Male,41,7.6,8,90,5,Normal,Healthy
+178,Male,42,6.5,6,45,7,Overweight,Insomnia
+179,Male,42,7.8,8,90,5,Normal,Healthy
+180,Male,42,7.8,8,90,5,Normal,Healthy
+181,Male,42,7.8,8,90,5,Normal,Healthy
+182,Male,42,7.8,8,90,5,Normal,Healthy
+183,Male,42,7.8,8,90,5,Normal,Healthy
+184,Male,42,7.8,8,90,5,Normal,Healthy
+185,Female,42,6.8,6,45,7,Overweight,Sleep Apnea
+186,Female,42,6.8,6,45,7,Overweight,Sleep Apnea
+187,Female,43,6.7,7,45,4,Overweight,Insomnia
+188,Male,43,6.3,6,45,7,Overweight,Insomnia
+189,Female,43,6.7,7,45,4,Overweight,Insomnia
+190,Male,43,6.5,6,45,7,Overweight,Insomnia
+191,Female,43,6.7,7,45,4,Overweight,Insomnia
+192,Male,43,6.4,6,45,7,Overweight,Insomnia
+193,Male,43,6.5,6,45,7,Overweight,Insomnia
+194,Male,43,6.5,6,45,7,Overweight,Insomnia
+195,Male,43,6.5,6,45,7,Overweight,Insomnia
+196,Male,43,6.5,6,45,7,Overweight,Insomnia
+197,Male,43,6.5,6,45,7,Overweight,Insomnia
+198,Male,43,6.5,6,45,7,Overweight,Insomnia
+199,Male,43,6.5,6,45,7,Overweight,Insomnia
+200,Male,43,6.5,6,45,7,Overweight,Insomnia
+201,Male,43,6.5,6,45,7,Overweight,Insomnia
+202,Male,43,7.8,8,90,5,Normal,Insomnia
+203,Male,43,7.8,8,90,5,Normal,Insomnia
+204,Male,43,6.9,6,47,7,Normal,Healthy
+205,Male,43,7.6,8,75,4,Overweight,Healthy
+206,Male,43,7.7,8,90,5,Normal,Healthy
+207,Male,43,7.7,8,90,5,Normal,Healthy
+208,Male,43,7.7,8,90,5,Normal,Healthy
+209,Male,43,7.7,8,90,5,Normal,Healthy
+210,Male,43,7.8,8,90,5,Normal,Healthy
+211,Male,43,7.7,8,90,5,Normal,Healthy
+212,Male,43,7.8,8,90,5,Normal,Healthy
+213,Male,43,7.8,8,90,5,Normal,Healthy
+214,Male,43,7.8,8,90,5,Normal,Healthy
+215,Male,43,7.8,8,90,5,Normal,Healthy
+216,Male,43,7.8,8,90,5,Normal,Healthy
+217,Male,43,7.8,8,90,5,Normal,Healthy
+218,Male,43,7.8,8,90,5,Normal,Healthy
+219,Male,43,7.8,8,90,5,Normal,Sleep Apnea
+220,Male,43,6.5,6,45,7,Overweight,Sleep Apnea
+221,Female,44,6.6,7,45,4,Overweight,Insomnia
+222,Male,44,6.4,6,45,7,Overweight,Insomnia
+223,Male,44,6.3,6,45,7,Overweight,Insomnia
+224,Male,44,6.4,6,45,7,Overweight,Insomnia
+225,Female,44,6.6,7,45,4,Overweight,Insomnia
+226,Male,44,6.3,6,45,7,Overweight,Insomnia
+227,Female,44,6.6,7,45,4,Overweight,Insomnia
+228,Male,44,6.3,6,45,7,Overweight,Insomnia
+229,Female,44,6.6,7,45,4,Overweight,Insomnia
+230,Male,44,6.3,6,45,7,Overweight,Insomnia
+231,Female,44,6.6,7,45,4,Overweight,Insomnia
+232,Male,44,6.3,6,45,7,Overweight,Insomnia
+233,Female,44,6.6,7,45,4,Overweight,Insomnia
+234,Male,44,6.3,6,45,7,Overweight,Insomnia
+235,Female,44,6.6,7,45,4,Overweight,Insomnia
+236,Male,44,6.3,6,45,7,Overweight,Insomnia
+237,Male,44,6.4,6,45,7,Overweight,Insomnia
+238,Female,44,6.5,7,45,4,Overweight,Insomnia
+239,Male,44,6.3,6,45,7,Overweight,Insomnia
+240,Male,44,6.4,6,45,7,Overweight,Insomnia
+241,Female,44,6.5,7,45,4,Overweight,Insomnia
+242,Male,44,6.3,6,45,7,Overweight,Insomnia
+243,Male,44,6.4,6,45,7,Overweight,Insomnia
+244,Female,44,6.5,7,45,4,Overweight,Insomnia
+245,Male,44,6.3,6,45,7,Overweight,Insomnia
+246,Female,44,6.5,7,45,4,Overweight,Insomnia
+247,Male,44,6.3,6,45,7,Overweight,Insomnia
+248,Male,44,6.8,7,45,7,Overweight,Insomnia
+249,Male,44,6.4,6,45,7,Overweight,Healthy
+250,Male,44,6.5,6,45,7,Overweight,Healthy
+251,Female,45,6.8,7,30,6,Overweight,Insomnia
+252,Female,45,6.8,7,30,6,Overweight,Insomnia
+253,Female,45,6.5,7,45,4,Overweight,Insomnia
+254,Female,45,6.5,7,45,4,Overweight,Insomnia
+255,Female,45,6.5,7,45,4,Overweight,Insomnia
+256,Female,45,6.5,7,45,4,Overweight,Insomnia
+257,Female,45,6.6,7,45,4,Overweight,Insomnia
+258,Female,45,6.6,7,45,4,Overweight,Insomnia
+259,Female,45,6.6,7,45,4,Overweight,Insomnia
+260,Female,45,6.6,7,45,4,Overweight,Insomnia
+261,Female,45,6.6,7,45,4,Overweight,Insomnia
+262,Female,45,6.6,7,45,4,Overweight,Healthy
+263,Female,45,6.6,7,45,4,Overweight,Healthy
+264,Female,45,6.9,7,55,5,Overweight,Healthy
+265,Male,48,7.3,7,65,5,Obese,Insomnia
+266,Female,48,5.9,6,90,8,Overweight,Sleep Apnea
+267,Male,48,7.3,7,65,5,Obese,Insomnia
+268,Female,49,6.2,6,90,8,Overweight,Healthy
+269,Female,49,6.0,6,90,8,Overweight,Sleep Apnea
+270,Female,49,6.1,6,90,8,Overweight,Sleep Apnea
+271,Female,49,6.1,6,90,8,Overweight,Sleep Apnea
+272,Female,49,6.1,6,90,8,Overweight,Sleep Apnea
+273,Female,49,6.1,6,90,8,Overweight,Sleep Apnea
+274,Female,49,6.2,6,90,8,Overweight,Sleep Apnea
+275,Female,49,6.2,6,90,8,Overweight,Sleep Apnea
+276,Female,49,6.2,6,90,8,Overweight,Sleep Apnea
+277,Male,49,8.1,9,85,3,Obese,Sleep Apnea
+278,Male,49,8.1,9,85,3,Obese,Sleep Apnea
+279,Female,50,6.1,6,90,8,Overweight,Insomnia
+280,Female,50,8.3,9,30,3,Normal,Healthy
+281,Female,50,6.0,6,90,8,Overweight,Healthy
+282,Female,50,6.1,6,90,8,Overweight,Sleep Apnea
+283,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+284,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+285,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+286,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+287,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+288,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+289,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+290,Female,50,6.1,6,90,8,Overweight,Sleep Apnea
+291,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+292,Female,50,6.1,6,90,8,Overweight,Sleep Apnea
+293,Female,50,6.1,6,90,8,Overweight,Sleep Apnea
+294,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+295,Female,50,6.1,6,90,8,Overweight,Sleep Apnea
+296,Female,50,6.0,6,90,8,Overweight,Sleep Apnea
+297,Female,50,6.1,6,90,8,Overweight,Sleep Apnea
+298,Female,50,6.1,6,90,8,Overweight,Sleep Apnea
+299,Female,51,8.5,9,30,3,Normal,Healthy
+300,Female,51,8.5,9,30,3,Normal,Healthy
+301,Female,51,8.5,9,30,3,Normal,Healthy
+302,Female,51,8.5,9,30,3,Normal,Healthy
+303,Female,51,7.1,7,55,6,Normal,Healthy
+304,Female,51,6.0,6,90,8,Overweight,Sleep Apnea
+305,Female,51,6.1,6,90,8,Overweight,Sleep Apnea
+306,Female,51,6.1,6,90,8,Overweight,Sleep Apnea
+307,Female,52,6.5,7,45,7,Overweight,Insomnia
+308,Female,52,6.5,7,45,7,Overweight,Insomnia
+309,Female,52,6.6,7,45,7,Overweight,Insomnia
+310,Female,52,6.6,7,45,7,Overweight,Insomnia
+311,Female,52,6.6,7,45,7,Overweight,Insomnia
+312,Female,52,6.6,7,45,7,Overweight,Insomnia
+313,Female,52,8.4,9,30,3,Normal,Healthy
+314,Female,52,8.4,9,30,3,Normal,Healthy
+315,Female,52,8.4,9,30,3,Normal,Healthy
+316,Female,53,8.3,9,30,3,Normal,Insomnia
+317,Female,53,8.5,9,30,3,Normal,Healthy
+318,Female,53,8.5,9,30,3,Normal,Healthy
+319,Female,53,8.4,9,30,3,Normal,Healthy
+320,Female,53,8.4,9,30,3,Normal,Healthy
+321,Female,53,8.5,9,30,3,Normal,Healthy
+322,Female,53,8.4,9,30,3,Normal,Healthy
+323,Female,53,8.4,9,30,3,Normal,Healthy
+324,Female,53,8.5,9,30,3,Normal,Healthy
+325,Female,53,8.3,9,30,3,Normal,Healthy
+326,Female,53,8.5,9,30,3,Normal,Healthy
+327,Female,53,8.3,9,30,3,Normal,Healthy
+328,Female,53,8.5,9,30,3,Normal,Healthy
+329,Female,53,8.3,9,30,3,Normal,Healthy
+330,Female,53,8.5,9,30,3,Normal,Healthy
+331,Female,53,8.5,9,30,3,Normal,Healthy
+332,Female,53,8.4,9,30,3,Normal,Healthy
+333,Female,54,8.4,9,30,3,Normal,Healthy
+334,Female,54,8.4,9,30,3,Normal,Healthy
+335,Female,54,8.4,9,30,3,Normal,Healthy
+336,Female,54,8.4,9,30,3,Normal,Healthy
+337,Female,54,8.4,9,30,3,Normal,Healthy
+338,Female,54,8.4,9,30,3,Normal,Healthy
+339,Female,54,8.5,9,30,3,Normal,Healthy
+340,Female,55,8.1,9,75,4,Overweight,Sleep Apnea
+341,Female,55,8.1,9,75,4,Overweight,Sleep Apnea
+342,Female,56,8.2,9,90,3,Normal,Healthy
+343,Female,56,8.2,9,90,3,Normal,Healthy
+344,Female,57,8.1,9,75,3,Overweight,Healthy
+345,Female,57,8.2,9,75,3,Overweight,Sleep Apnea
+346,Female,57,8.2,9,75,3,Overweight,Sleep Apnea
+347,Female,57,8.2,9,75,3,Overweight,Sleep Apnea
+348,Female,57,8.2,9,75,3,Overweight,Sleep Apnea
+349,Female,57,8.2,9,75,3,Overweight,Sleep Apnea
+350,Female,57,8.1,9,75,3,Overweight,Sleep Apnea
+351,Female,57,8.1,9,75,3,Overweight,Sleep Apnea
+352,Female,57,8.1,9,75,3,Overweight,Sleep Apnea
+353,Female,58,8.0,9,75,3,Overweight,Sleep Apnea
+354,Female,58,8.0,9,75,3,Overweight,Sleep Apnea
+355,Female,58,8.0,9,75,3,Overweight,Sleep Apnea
+356,Female,58,8.0,9,75,3,Overweight,Sleep Apnea
+357,Female,58,8.0,9,75,3,Overweight,Sleep Apnea
+358,Female,58,8.0,9,75,3,Overweight,Sleep Apnea
+359,Female,59,8.0,9,75,3,Overweight,Healthy
+360,Female,59,8.1,9,75,3,Overweight,Healthy
+361,Female,59,8.2,9,75,3,Overweight,Sleep Apnea
+362,Female,59,8.2,9,75,3,Overweight,Sleep Apnea
+363,Female,59,8.2,9,75,3,Overweight,Sleep Apnea
+364,Female,59,8.2,9,75,3,Overweight,Sleep Apnea
+365,Female,59,8.0,9,75,3,Overweight,Sleep Apnea
+366,Female,59,8.0,9,75,3,Overweight,Sleep Apnea
+367,Female,59,8.1,9,75,3,Overweight,Sleep Apnea
+368,Female,59,8.0,9,75,3,Overweight,Sleep Apnea
+369,Female,59,8.1,9,75,3,Overweight,Sleep Apnea
+370,Female,59,8.1,9,75,3,Overweight,Sleep Apnea
+371,Female,59,8.0,9,75,3,Overweight,Sleep Apnea
+372,Female,59,8.1,9,75,3,Overweight,Sleep Apnea
+373,Female,59,8.1,9,75,3,Overweight,Sleep Apnea
+374,Female,59,8.1,9,75,3,Overweight,Sleep Apnea
