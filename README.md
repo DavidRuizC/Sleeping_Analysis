@@ -66,7 +66,6 @@ The complete analysis and visual results are included in [`report.pdf`](./report
 ## 🧠 Author
 
 David Ruiz Cáceres  
-NIU: 1672891
 
 ## 📚 Original Dataset
 
